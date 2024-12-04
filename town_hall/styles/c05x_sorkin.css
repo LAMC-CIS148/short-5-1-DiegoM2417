@@ -7,7 +7,7 @@ body {
 }	
 .container {
 	background-color: white;
-	border: 5px solid blue;
+	border: 5px solid blue; /* Outer blue border*/
 	margin: 20px;
 	padding: 20px;
 }
@@ -48,7 +48,7 @@ ul {
 	padding-left: 20px;
 }
 .footer {
-	border-top: 2px solid blue;
+	border-top: 2px solid blue; /* Top blue border for footer*/
 	margin-top: 20px;
 	padding-top: 10px;
 	text-align: center;
