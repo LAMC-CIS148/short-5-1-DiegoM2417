@@ -32,12 +32,12 @@ h2 {
 	margin-top: 0;
 }
 img {
-	float: left;
+	float: center;
 	margin-right: 15px;
 	width: 150px;
 }
 p {
-	text-align: justify;
+	text-align: center;
 }
 blockquote {
 	font-style: italic;
