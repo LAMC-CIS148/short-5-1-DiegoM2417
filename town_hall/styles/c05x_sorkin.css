@@ -6,14 +6,12 @@ html {
 	background-color: yellow;
 }
 body {
-	
-	background-color: white;
-	font-family: Ariel, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	width: 650%;
 	margin: 0 auto;
 	border: 10px double blue;
 	background-color: white;
-	width: 650%;
-	font-size: 100%;
 }	
 main {
 	padding: 1.5em;
@@ -37,12 +35,10 @@ img {
 	margin: .5em 1em .5em 0;
 }
 p {
-	color: black;
-	font-size: 14px;
-	line-height: 1.5;
+	padding-bottom: .5em;
 }
 blockquote {
-	padding-bottom:
+	padding-bottom: .25em;
 }
 cite {
 	color: blue;
